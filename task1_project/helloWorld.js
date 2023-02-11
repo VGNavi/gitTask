@@ -1,1 +1,3 @@
-console.log("Hello World!")
+input = prompt("Write what you would like to print: ")
+
+console.log(input)
